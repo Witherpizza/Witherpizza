@@ -2,6 +2,7 @@
 <p>
     Hello, I'm Witherpizza! I'm a dedicated software developer from Florida in the US. I possess a strong background in Information Technology and Software Development, along with a BS in Software Engineering. I enjoy working on large development projects 
     with a team and alone. I am proficient in backend development and competent in frontend development.
+    Currently, I have no open projects yet, but that will change in the future soon!
 </p>
 
 <h3>Tools & Technology Skills</h3>
